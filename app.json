@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "+242068479333;Shadow king"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "Shadow-MD-BOT©®"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": true,
-      "value": "."
+      "value": "°"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
@@ -40,7 +40,7 @@
     "autoRead": {
       "description": "make it true or false if you want bot to read messages leave it blank if you don't want it to read messages",
       "required": false,
-      "value": ""
+      "value": "true"
       },
     "AUTO_RECORDING": {
       "description": "make it true or false. true to activate false to deactivate",
@@ -60,7 +60,7 @@
     "AUTO_STATUS_LIKE_EMOJI": {
       "description": "customize to any emoji you need 💚",
       "required": false,
-      "value": "🦋"
+      "value": "👻"
        },
     "STATUS_REPLY": {
       "description": "make it true or false. true to activate false to deactivate",
@@ -70,7 +70,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
